@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,data.flurry.com
-DOMAIN-SUFFIX,sessions.bugsnag.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,pool.ntp.org
+HOST-SUFFIX,data.flurry.com,infuse
+HOST-SUFFIX,sessions.bugsnag.com,infuse
+HOST-SUFFIX,themoviedb.org,infuse
+HOST-SUFFIX,pool.ntp.org,infuse
